@@ -36,25 +36,26 @@ IAP2/
 
 ### 1. Clone o repositório
 
-```bash
-git clone https://github.com/VictorRaSaFa/IAP2
-cd IAP2
+
+`git clone https://github.com/VictorRaSaFa/IAP2`
+
+`cd IAP2`
 
 ### 2. Crie um ambiente virtual (Opcional)
 
-python -m venv venv
+`python -m venv venv`
 
 ### 3. Instale as dependências
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 4. Abra o Jupyter
 
-python -m notebook
+`python -m notebook`
 
 e selecione
 
-banana_classifier.ipynb
+`banana_classifier.ipynb`
 
 ## 📊 Resultados Gerados pelo Notebook
 
