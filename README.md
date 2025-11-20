@@ -37,8 +37,8 @@ IAP2/
 ### 1. Clone o repositório
 
 
-git clone https://github.com/VictorRaSaFa/IAP2
-cd IAP2
+`git clone https://github.com/VictorRaSaFa/IAP2`
+`cd IAP2`
 
 ### 2. Crie um ambiente virtual (Opcional)
 
