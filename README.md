@@ -36,7 +36,7 @@ IAP2/
 
 ### 1. Clone o repositório
 
-```bash
+
 git clone https://github.com/VictorRaSaFa/IAP2
 cd IAP2
 
